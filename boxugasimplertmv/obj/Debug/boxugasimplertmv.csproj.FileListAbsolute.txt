@@ -1,0 +1,16 @@
+C:\Users\Lucas\source\repos\boxugasimplertmv\boxugasimplertmv\bin\Debug\boxugasimplertmv.exe.config
+C:\Users\Lucas\source\repos\boxugasimplertmv\boxugasimplertmv\bin\Debug\boxugasimplertmv.exe
+C:\Users\Lucas\source\repos\boxugasimplertmv\boxugasimplertmv\bin\Debug\boxugasimplertmv.pdb
+C:\Users\Lucas\source\repos\boxugasimplertmv\boxugasimplertmv\obj\Debug\boxugasimplertmv.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\boxugasimplertmv\boxugasimplertmv\obj\Debug\boxugasimplertmv.Properties.Resources.resources
+C:\Users\Lucas\source\repos\boxugasimplertmv\boxugasimplertmv\obj\Debug\boxugasimplertmv.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\boxugasimplertmv\boxugasimplertmv\obj\Debug\boxugasimplertmv.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\boxugasimplertmv\boxugasimplertmv\obj\Debug\boxugasimplertmv.exe
+C:\Users\Lucas\source\repos\boxugasimplertmv\boxugasimplertmv\obj\Debug\boxugasimplertmv.pdb
+C:\Users\Lucas\source\repos\boxugasimplertmv\boxugasimplertmv\obj\Debug\boxugasimplertmv.boxugasimplertmv.resources
+C:\Users\Lucas\source\repos\boxugasimplertmv\boxugasimplertmv\bin\Debug\DiscordRPC.dll
+C:\Users\Lucas\source\repos\boxugasimplertmv\boxugasimplertmv\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lucas\source\repos\boxugasimplertmv\boxugasimplertmv\bin\Debug\DiscordRPC.pdb
+C:\Users\Lucas\source\repos\boxugasimplertmv\boxugasimplertmv\bin\Debug\DiscordRPC.xml
+C:\Users\Lucas\source\repos\boxugasimplertmv\boxugasimplertmv\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lucas\source\repos\boxugasimplertmv\boxugasimplertmv\obj\Debug\boxugasimplertmv.csproj.CopyComplete
